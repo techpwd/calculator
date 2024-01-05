@@ -1,6 +1,6 @@
 # calculator
 In this program you can calculate basic calculation.
 <br>
-Author- Techpd
+Author- Techpwd
 <br>
 Language- c
